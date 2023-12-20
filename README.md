@@ -1,1 +1,2 @@
-# dynamic-programming-languages
+# Динамические языки программирования
+Все лабораторные работы выполнены и офомрлены в Jupyter Notebook в файле laboratory_works.ipynb
